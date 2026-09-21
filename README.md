@@ -1,3 +1,9 @@
+ KISAKYE JEMIMAH – Standard Deviation Calculation
+
+JEMIMAH was responsible for implementing the standard deviation function. This involved using the variance calculated from the dataset and applying the square root function to obtain the standard deviation. The function was tested to confirm that the output was correct.
+
+
+
 EGERU MICHAEL - mean calculation
 EGERU was responsible for implementing the mean calculation function. The contribution involved calculating the total sum of all values in the dataset and dividing the sum by the number of values. EGERU also tested the function using the provided dataset to ensure that the calculated mean was correct.
 
