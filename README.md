@@ -9,15 +9,5 @@ ENGWAU was responsible for implementing the variance calculation function. The c
 
 JEMIMAH was responsible for implementing the standard deviation function. This involved using the variance calculated from the dataset and applying the square root function to obtain the standard deviation. The function was tested to confirm that the output was correct.
 
-4. OKIDI RAYMOND – Range Calculation
 
-RAYMOND was responsible for implementing the range calculation function. The contribution involved identifying the minimum and maximum values in the dataset and calculating the difference between them. The function was tested using the given data to verify the calculated range.
-
-5. NGOR AHOK AYUEN – Count and Product Calculations
-
-NGOR was responsible for implementing the count and product functions. The count function determines the number of values in the dataset, while the product function multiplies all the values together. Both functions were tested to ensure that they returned the expected results.
-
-6. KODET EDITH – Main Program, Integration and Testing
-
-EDITH was responsible for integrating the individual functions into the main program. This involved creating the dataset, calling the different statistical functions, formatting the output, and testing the complete program. EDITH also helped verify that the individual contributions worked together correctly and that the final program produced the expected results.
 
